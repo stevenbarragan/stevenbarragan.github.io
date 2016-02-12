@@ -6,7 +6,7 @@ Software Engineer
 [linkedin](https://www.linkedin.com/in/stevenbarragan),
 [github](https://github.com/stevenbarragan)
 
-> I like thinking and finding the best solutions. I love sharing my knowledge and learning from others. I try to contribute to open source any time I can (I created this [gem](https://github.com/stevenbarragan/julia_builder) a couple of months ago), I make an effort to increase and maintain really good test coverage. I like to learn new things, new language, new paradigms. Fast learner. vim lover. Rubik's cube solver.
+> I like thinking and finding the best solutions. I love sharing my knowledge and learning from others. I try to contribute to open source any time I can (I created this [gem](https://github.com/stevenbarragan/julia_builder) a couple of months ago). I make an effort to increase and maintain really good test coverage. I like to learn new things, new language, new paradigms. Fast learner. vim lover. Rubik's cube solver.
 
 ### Stackcommerce, ~1.3 years
 
