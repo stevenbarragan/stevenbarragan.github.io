@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+<div class="home">
+{% capture my-resume %}{% include resume.md %}{% endcapture %}
+{{ my-resume | markdownify }}
+</div>
