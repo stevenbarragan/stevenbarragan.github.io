@@ -15,4 +15,4 @@ twitter_username: steven_barragan
 github_username:  stevenbarragan
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown

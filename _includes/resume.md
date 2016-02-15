@@ -1,6 +1,8 @@
 Steven Barragán
 =============
+
 ## Software Engineer
+
 [me@steven.mx](mailto:me@steven.mx),
 [linkedin](https://www.linkedin.com/in/stevenbarragan),
 [github](https://github.com/stevenbarragan).
