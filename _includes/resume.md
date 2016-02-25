@@ -20,20 +20,20 @@ As a full stack engineer, I'm in charge of various parts of the systems, such as
 - Improving site performance by adding "russian doll caching" strategy on most visited pages of the site and on the connection with third party services. Fixing n+1 queries.
 - Implementing a new third party email service, getting rid of all email related logic in the app and extracting it to a separate one (first attempt to go towards a microservices architecture).
 - Creating a more complex but flexible coupons system.
-- Technologies stack: ruby, ruby on rails, angularjs, mysql, postgres.
+- Technologies stack: Ruby, Ruby on Rails, AngularJS, MySQL, PostgreSQL.
 
 ### Crowdinteractive (Magma labs), ~1.5 years
 
 - I loved being a part of a software consultancy since  every so often, I had the opportunity to work on something new, pick the technologies we wanted to use according to the application's needs, plan the application's architecture and develop it from the beginning.
 - I worked a lot on creating ecommerce apps with spree gem, and had the opportunity to write a couple of "spree extensions", as well as  contribute to the spree gem itself.
-- Technology stack: ruby, ruby on rails, angular, backbone, node.js, go, mysql, postgres.
+- Technology stack: Ruby, Ruby on Rails, AngularJS, Backbone.js, Node.js, Go, MySQL, PostgreSQL.
 
 ### Intel, ~1 year
 
-- I worked on a testing framework in order to make QA's live much easier and testing process much faster. The framework connected to proprietary services giving the ability to use 'helpers' functions on each test case, and getting full reports of the test they ran.
+- I worked on a Testing Framework in order to make QA's live much easier and testing process much faster. The framework connected to proprietary services giving the ability to use 'helpers' functions on each test case, and getting full reports of the test they ran.
 
 ### Toolstnet ~1.5 years
-  Introduction to the web development world, working with php, a couple of mvc frameworks (codeigniter, wordpress, CakePHP), javascript, jquery, extreme programing, testing.
+  Introduction to the web development world, working with PHP, a couple of mvc frameworks (CodeIgniter, WordPress, CakePHP), JavaScript, jQuery, extreme programing, testing.
 
 ### Universidad de Guadalajara
 - I studied Computer Science in Guadalajara, Jal. México.
